@@ -1,6 +1,9 @@
-div {
-	color: red;
-	background-color: blue;
-	height: 100px;
-	width: 150px;
+p {
+	font-family: Verdana;
+	background-color: purple;
+
+}
+span{
+        color: yellow ;
+
 }
