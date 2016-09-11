@@ -9,3 +9,4 @@ console.log(a*b);
 } else if (panda) {
 console.log(a+b);
 }
+console.log(a-b);
